@@ -46,3 +46,30 @@ Process:
 
 
 
+Which operating system function makes sure all of the running programs and processes on the system play well with one another?
+-Resource Management
+
+What is the best statement regarding computer architecture
+-It is the set of rules and methods that describe the functionality, organization, and implementation of the computer system
+
+Which process management state describes a process being created?
+-New
+
+
+Which operating system option provides interactive time sharing from remote terminals?
+-TSO (Time sharing option)
+
+
+Select the correct statement regarding application software
+-Runs on top of the operating system
+
+Which IBM transaction processing monitor provides rapid high-volume transaction processing?
+-CICS (Customer information control system)
+
+Mainframe memory is also referred to as:
+
+Question 4Select one:
+-Storage
+
+
+
