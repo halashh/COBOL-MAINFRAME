@@ -67,8 +67,6 @@ Which IBM transaction processing monitor provides rapid high-volume transaction 
 -CICS (Customer information control system)
 
 Mainframe memory is also referred to as:
-
-Question 4Select one:
 -Storage
 
 
