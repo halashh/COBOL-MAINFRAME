@@ -70,4 +70,35 @@ Mainframe memory is also referred to as:
 -Storage
 
 
+IBM Z Configuration Setup:
+[IBM.pdf](https://github.com/user-attachments/files/16711659/IBM.pdf)
+
+
+Glorssary:
+[Glosary Terms IBM.pdf](https://github.com/user-attachments/files/16714258/Glosary.Terms.IBM.pdf)
+
+
+
+Which of the following provides the ability to allow users on multiple systems to access data sets on shared DASD volumes?
+The correct answer is: GRS
+
+
+W​hat might a typical IBM Z Mainframe environment consolidate?
+The correct answers are: Power Supplies, CPU, Cooling, Network Adapters
+
+Which mainframe component syncs the time of day between multiple servers?
+The correct answer is: Server time protocol
+
+What is the maximum number of z/OS images in a Parallel Sysplex environment?
+The correct answer is: 32
+
+W​hat's an example of a batch process?
+The correct answer is: Payroll
+
+Security Mainframe:
+![image](https://github.com/user-attachments/assets/622f2ac5-945a-476c-b914-8671c2bf883f)
+
+
+
+
 
