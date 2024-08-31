@@ -226,6 +226,17 @@ b. Retrieving
 d. Resource
 
 30. ¿Cuál es el número mínimo de LPARs en un Sysplex?
+
 b. 1
+
+Introduction to TSO and ISPF
+
+TSO: Time Share Options
+ISPF: Interactive System Productivity Facility
+
+![TSO](https://github.com/user-attachments/assets/432f8af8-c8a7-440e-aa47-fed037175469)
+
+
+
 
 
