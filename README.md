@@ -236,6 +236,19 @@ ISPF: Interactive System Productivity Facility
 
 ![TSO](https://github.com/user-attachments/assets/432f8af8-c8a7-440e-aa47-fed037175469)
 
+Ingresar S en el espacio anterior a cada opción y presionar enter para continuar:
+Ejemplo:
+s -Nomail
+
+-Nomail: TSO suprimira el mensaje de para mi usuario durante el inicio de sesión.
+-Nonotice: No quiero ver mensajes destinados a ninguno de los usuarios.
+-Reconnect: Reconectara a una sesión cerrada accidentalmente.
+-OIDCard: Para introducir datos con tarjeta de operador.
+
+ISPF:
+![image](https://github.com/user-attachments/assets/9a290202-9ac3-4f77-9df9-56a626d929a2)
+
+
 
 
 
