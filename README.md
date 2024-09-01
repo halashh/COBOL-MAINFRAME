@@ -417,7 +417,7 @@ Scrpit en REXX (Lenguaje para automatización):
 ANSWER ='Y'
 DO WHILE ANSWER='Y'
 GUESSNUMBER=1
- NUMBER=RANDOM(1,50)
+ NUMBER=RANDOM(1,50)/*NUMBER = 1 + RANDOM()*49*/
  SAY "Let's play a little game. I think of a number between"
  SAY "1 and 50 and you have to guess it!"
  say "OK, I picked a number."
